@@ -1,0 +1,340 @@
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.exe
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.deps.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.runtimeconfig.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.pdb
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.AssemblyReference.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfoInputs.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfo.cs
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.HastaneAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HastaneAPI.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HastaneAPI.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HastaneAPI.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\scopedcss\bundle\HastaneAPI.styles.css
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CopyComplete
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\refint\HastaneAPI.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.pdb
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.genruntimeconfig.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\ref\HastaneAPI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.exe
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.deps.json
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.runtimeconfig.json
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.pdb
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.AssemblyReference.cache
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfoInputs.cache
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfo.cs
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CoreCompileInputs.cache
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.HastaneAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HastaneAPI.props
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HastaneAPI.props
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HastaneAPI.props
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\scopedcss\bundle\HastaneAPI.styles.css
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CopyComplete
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\refint\HastaneAPI.dll
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.pdb
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.genruntimeconfig.cache
+C:\Users\harun.azizoglu\Desktop\dd\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\ref\HastaneAPI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.json
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.exe
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.deps.json
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.runtimeconfig.json
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.pdb
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Humanizer.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.AssemblyReference.cache
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfoInputs.cache
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfo.cs
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CoreCompileInputs.cache
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.HastaneAPI.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HastaneAPI.props
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HastaneAPI.props
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HastaneAPI.props
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\scopedcss\bundle\HastaneAPI.styles.css
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CopyComplete
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\refint\HastaneAPI.dll
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.pdb
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.genruntimeconfig.cache
+c:\Users\bugra.kaya\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\ref\HastaneAPI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.json
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.exe
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.deps.json
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.runtimeconfig.json
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.pdb
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Humanizer.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.AssemblyReference.cache
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfoInputs.cache
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfo.cs
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CoreCompileInputs.cache
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.HastaneAPI.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HastaneAPI.props
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HastaneAPI.props
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HastaneAPI.props
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\scopedcss\bundle\HastaneAPI.styles.css
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CopyComplete
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\refint\HastaneAPI.dll
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.pdb
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.genruntimeconfig.cache
+c:\Users\trkbg\Desktop\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\ref\HastaneAPI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.exe
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.deps.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.runtimeconfig.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\HastaneAPI.pdb
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.AssemblyReference.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfoInputs.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.AssemblyInfo.cs
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CoreCompileInputs.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.HastaneAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.HastaneAPI.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HastaneAPI.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HastaneAPI.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\scopedcss\bundle\HastaneAPI.styles.css
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.csproj.CopyComplete
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\refint\HastaneAPI.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.pdb
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\HastaneAPI.genruntimeconfig.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\HastaneWebAPI\HastaneAPI\obj\Debug\net6.0\ref\HastaneAPI.dll

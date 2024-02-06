@@ -1,0 +1,168 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table">
+    <thead>
+
+        <tr>
+            <th>ID</th>
+            <th>Hastane Adı</th>
+            <th>Adres</th>
+            <th>Ayarlar</th>
+        </tr>
+    </thead>
+    <tbody id="hastaneTable"></tbody>
+</table>
+<br>
+<br>
+<br>
+<button class="btn btn-warning" onclick="Listele()">Listele</button>
+
+<br>
+<br>
+<br>
+
+<input type="text" id="txtHastaneAdi" placeholder="Hastane adını giriniz..." />
+<input type="text" id="txtAdres" placeholder="Adresini giriniz..." />
+<button class="btn btn-primary" onclick="Ekle()">Ekle</button>
+
+
+<div id="duzenleForm" style="display: none;">
+<h2>Düzenleme Formu</h2>
+<input type="hidden" id="duzenleId" />
+<input type="text" id="duzenleHastaneAdi" placeholder="Yeni hastane adını giriniz..." />
+<input type="text" id="duzenleAdres" placeholder="Yeni adresini giriniz..." />
+<button class="btn btn-warning" onclick="Kaydet()">Kaydet</button>
+<button class="btn btn-danger" onclick="IptalDuzenle()">İptal</button>
+</div>
+<script>
+    function Listele() {
+        $("#hastaneTable").empty();
+        $.ajax({
+            type: "GET",
+            url: "https://localhost:7213/api/Hastane",
+            contentType: "application/json",
+            dataType: "json",
+            success: function (data) {
+
+                $.each(data, function (i, item) {
+                    var rows = "<tr>" +
+                        "<td id='id'>" + item.id + "</td>" +
+                        "<td id='hastaneAdi'>" + item.hastaneAdi + "</td>" +
+                        "<td id='adres'>" + item.adres + "</td>" +
+                        "<td>" +
+                        "<button class='btn btn-warning' onclick='Duzenle(" + item.id + ")'>" + "Düzenle " + "</button>" +
+                        "<button class='btn btn-danger' onclick='Sil(" + item.id + ")'>sil</button>" +
+                        "</td>" +
+
+                        "</tr>";
+                    $("#hastaneTable").append(rows);
+                });
+            },
+            error: function (data) {
+                alert(data.responseText);
+            }
+        });
+    }
+
+    function Ekle() {
+
+        $.ajax({
+            type: "POST",
+            url: "https://localhost:7213/api/Hastane",
+            contentType: "application/json",
+            dataType: "json",
+            data: JSON.stringify({ hastaneAdi: $("#txtHastaneAdi").val(), adres: $("#txtAdres").val() }),
+            success: function (data) {
+
+                var newItem = data;
+
+                var newRow = "<tr>" +
+                    "<td id='id'>" + newItem.id + "</td>" +
+                    "<td id='hastaneAdi'>" + newItem.hastaneAdi + "</td>" +
+                    "<td id='adres'>" + newItem.adres + "</td>" +
+                    "</tr>";
+
+                $("#hastaneTable").append(newRow);
+            },
+            error: function (data) {
+                alert(data.responseText);
+            }
+        });
+        Listele();
+    }
+
+
+    function Sil(id) {
+        $.ajax({
+            type: "DELETE",
+            url: "https://localhost:7213/api/Hastane/" + id,
+            contentType: "application/json",
+            dataType: "json",
+            success: function (data) {
+                // Silme başarılı olduğunda yapılacak işlemler buraya eklenebilir
+                alert("Silme işlemi başarıyla gerçekleşti.");
+
+                // Silinen veriyi tablodan kaldırma (varsayılan olarak sayfa yeniden yükleniyor)
+            },
+            error: function (data) {
+                alert("Silme işlemi sırasında bir hata oluştu: " + data.responseText);
+            }
+        });
+        Listele();
+    }
+
+    function Kaydet() {
+        var id = $("#duzenleId").val();
+        var hastaneAdi = $("#duzenleHastaneAdi").val();
+        var adres = $("#duzenleAdres").val();
+
+        $.ajax({
+            type: "PUT",  // veya "PATCH" kullanabilirsiniz
+            url: "https://localhost:7213/api/Hastane/" + id,
+            contentType: "application/json",
+            dataType: "json",
+            data: JSON.stringify({ hastaneAdi: hastaneAdi, adres: adres }),
+            success: function (data) {
+                alert("Düzenleme işlemi başarıyla gerçekleşti.");
+                Listele(); // Listeyi güncelle
+                IptalDuzenle(); // Düzenleme formunu gizle
+            },
+            error: function (data) {
+                alert("Düzenleme işlemi sırasında bir hata oluştu: " + data.responseText);
+            }
+        });
+    }
+
+
+    function Duzenle(id) {
+        // Bu noktada ilgili hastane verisini API'den almanız gerekiyor
+        // API'den alınan veriyi aşağıdaki şekilde kullanabilirsiniz
+        $.ajax({
+            type: "GET",
+            url: "https://localhost:7213/api/Hastane/" + id,
+            contentType: "application/json",
+            dataType: "json",
+            success: function (data) {
+                // API'den gelen veriyi kullanarak düzenleme formunu doldur
+                $("#duzenleId").val(data.id);
+                $("#duzenleHastaneAdi").val(data.hastaneAdi);
+                $("#duzenleAdres").val(data.adres);
+                $("#duzenleForm").show(); // Düzenleme formunu göster
+            },
+            error: function (data) {
+                alert("Düzenleme verileri alınırken bir hata oluştu: " + data.responseText);
+            }
+        });
+    }
+
+    function IptalDuzenle() {
+        // Düzenleme formunu gizle
+        $("#duzenleForm").hide();
+    }
+    
+    
+
+
+</script>

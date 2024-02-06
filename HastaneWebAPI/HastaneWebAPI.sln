@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneAPI", "HastaneAPI\HastaneAPI.csproj", "{8932701F-2915-4E71-A4F0-8343A4A79D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8932701F-2915-4E71-A4F0-8343A4A79D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8932701F-2915-4E71-A4F0-8343A4A79D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8932701F-2915-4E71-A4F0-8343A4A79D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8932701F-2915-4E71-A4F0-8343A4A79D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5ECF1D-D957-4E76-80A0-17D8E1932FC0}
+	EndGlobalSection
+EndGlobal

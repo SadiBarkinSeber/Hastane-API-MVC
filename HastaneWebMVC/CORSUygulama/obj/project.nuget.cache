@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eM7QYoA1chDvomjlfW6rnBBrlWX2xtIanTFBm+7O3Rgpv2e8AL+4fnid0ThLM702Mh13BVH+VdhaUPa8BlCoXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\B\\OneDrive\\Desktop\\Hastane API -MVC\\CORSUygulama\\CORSUygulama\\CORSUygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\B\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

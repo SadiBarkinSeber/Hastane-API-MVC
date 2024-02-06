@@ -1,0 +1,132 @@
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.staticwebassets.runtime.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.exe
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.deps.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.runtimeconfig.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.pdb
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.AssemblyReference.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfoInputs.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfo.cs
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cs
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.CORSUygulama.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.build.CORSUygulama.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CORSUygulama.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CORSUygulama.props
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\bundle\CORSUygulama.styles.css
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\projectbundle\CORSUygulama.bundle.scp.css
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CopyComplete
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\refint\CORSUygulama.dll
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.pdb
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.genruntimeconfig.cache
+C:\Users\Harun\Desktop\BILGE ADAM\.NET VStudio Dersler\CORSUygulama\CORSUygulama\obj\Debug\net6.0\ref\CORSUygulama.dll
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.staticwebassets.runtime.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.exe
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.deps.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.runtimeconfig.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.dll
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.pdb
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.AssemblyReference.cache
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfoInputs.cache
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfo.cs
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CoreCompileInputs.cache
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cache
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cs
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.CORSUygulama.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.build.CORSUygulama.props
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CORSUygulama.props
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CORSUygulama.props
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\bundle\CORSUygulama.styles.css
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\projectbundle\CORSUygulama.bundle.scp.css
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CopyComplete
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.dll
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\refint\CORSUygulama.dll
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.pdb
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.genruntimeconfig.cache
+c:\Users\bugra.kaya\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\ref\CORSUygulama.dll
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.staticwebassets.runtime.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.exe
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.deps.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.runtimeconfig.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.dll
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.pdb
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.AssemblyReference.cache
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfoInputs.cache
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfo.cs
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CoreCompileInputs.cache
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cache
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cs
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.CORSUygulama.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.build.CORSUygulama.props
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CORSUygulama.props
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CORSUygulama.props
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\bundle\CORSUygulama.styles.css
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\projectbundle\CORSUygulama.bundle.scp.css
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CopyComplete
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.dll
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\refint\CORSUygulama.dll
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.pdb
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.genruntimeconfig.cache
+c:\Users\trkbg\Desktop\CORSUygulama\CORSUygulama\obj\Debug\net6.0\ref\CORSUygulama.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\appsettings.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.staticwebassets.runtime.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.exe
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.deps.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.runtimeconfig.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\CORSUygulama.pdb
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.AssemblyReference.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfoInputs.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.AssemblyInfo.cs
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CoreCompileInputs.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.RazorAssemblyInfo.cs
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.CORSUygulama.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.build.CORSUygulama.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CORSUygulama.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CORSUygulama.props
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\bundle\CORSUygulama.styles.css
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\scopedcss\projectbundle\CORSUygulama.bundle.scp.css
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.csproj.CopyComplete
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\refint\CORSUygulama.dll
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.pdb
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\CORSUygulama.genruntimeconfig.cache
+C:\Users\B\OneDrive\Desktop\Hastane API -MVC\CORSUygulama\CORSUygulama\obj\Debug\net6.0\ref\CORSUygulama.dll
